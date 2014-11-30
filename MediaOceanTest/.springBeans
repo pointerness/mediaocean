@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.1.0.201210040510-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[true]]></enableImports>
+	<configs>
+		<config>src/main/resources/spring/config/BeanLocations.xml</config>
+		<config>src/main/resources/spring/database/Hibernate.xml</config>
+		<config>src/main/resources/spring/database/DataSource.xml</config>
+	</configs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
